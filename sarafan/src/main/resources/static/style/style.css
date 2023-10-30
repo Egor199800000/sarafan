@@ -1,0 +1,9 @@
+.messages-list{
+    position: relative;
+    width: 300px;
+}
+ 
+.mr-button{
+    position: absolute;
+    right: 0;
+}
